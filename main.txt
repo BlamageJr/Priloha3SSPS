@@ -1,2 +1,6 @@
 Minecraftový hosting běží na pracovním serveru mého otce.
 Doména pro připojení: genibrana.genisoft.cz
+
+Přílohy v repozitáři:
+  Screenshot neofetche z systémového shellu (viz. image1.png)
+  Screenshot úložiště, ve kterém je spuštěná služba minecraftového serveru otevřená příkazem "mc" (viz. image2.png)
